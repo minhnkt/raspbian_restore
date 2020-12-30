@@ -13,8 +13,8 @@
 #
 
 # Update if needed
-RASPBIAN_LITE_URL="https://downloads.raspberrypi.org/raspbian_lite_latest"
-RASPBIAN_FULL_URL="https://downloads.raspberrypi.org/raspbian_full_latest"
+RASPBIAN_LITE_URL="https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2020-12-04/2020-12-02-raspios-buster-armhf-lite.zip"
+RASPBIAN_FULL_URL="https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2020-12-04/2020-12-02-raspios-buster-armhf.zip"
 RASPBIAN_FULL=
 RASPBIAN_LITE=
 
