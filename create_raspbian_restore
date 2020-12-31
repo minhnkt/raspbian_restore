@@ -13,10 +13,10 @@
 #
 
 # Update if needed
-RASPBIAN_LITE_URL="https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2020-12-04/2020-12-02-raspios-buster-armhf-lite.zip"
-RASPBIAN_FULL_URL="https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2020-12-04/2020-12-02-raspios-buster-armhf.zip"
-RASPBIAN_FULL=
-RASPBIAN_LITE=
+RASPBIAN_LITE_URL=
+RASPBIAN_FULL_URL=
+RASPBIAN_FULL="https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2020-12-04/2020-12-02-raspios-buster-armhf.zip
+RASPBIAN_LITE="https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2020-12-04/2020-12-02-raspios-buster-armhf-lite.zip"
 
 # You really need to be root to do this
 if [ "$EUID" -ne 0 ]
